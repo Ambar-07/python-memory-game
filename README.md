@@ -49,4 +49,3 @@ Contributions are welcome! Please follow these guidelines:
 
 * Feel free to add more details about your project, such as specific features, challenges faced, or future plans.
 * Consider using a README generator tool like `README.md` to create a visually appealing and informative README.
-

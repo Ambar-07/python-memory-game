@@ -4,7 +4,7 @@ import sys
 from pygame.locals import *
 
 class MemoryGame:
-    def _init_(self):
+    def __init__(self):
         self.FPS = 30
         self.WINDOWWIDTH = 640
         self.WINDOWHEIGHT = 480
@@ -251,5 +251,5 @@ class MemoryGame:
         return True
 
 
-if _name_ == '_main_':
+if __name__ == '__main__':
     game = MemoryGame()
